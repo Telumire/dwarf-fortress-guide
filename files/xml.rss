@@ -6,7 +6,15 @@
   <link>https://dwarf-fortress-guide.tiddlyhost.com</link>
   <description>A guide for new players</description>
   <language>en-EN</language>
-  <lastBuildDate>Wed, 28 Dec 2022 22:36:14 GMT</lastBuildDate>
-	
+  <lastBuildDate>Thu, 29 Dec 2022 04:19:55 GMT</lastBuildDate>
+	<item>
+      <title>Testing the feed</title>
+      <description></description>
+      <category>article</category>
+      <content:encoded><![CDATA[<p><p>It's just a test !</p></p>]]></content:encoded>
+	  <pubDate>Thu, 29 Dec 2022 04:19:55 GMT</pubDate>
+      <link>https://dwarf-fortress-guide.tiddlyhost.com#Testing%20the%20feed</link>
+      <guid isPermaLink='true'>https://dwarf-fortress-guide.tiddlyhost.com#Testing%20the%20feed</guid>
+   </item>
 </channel>
 </rss>
